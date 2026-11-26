@@ -1,0 +1,16 @@
+# Environment
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+
+# ChromaDB
+.dana_chroma/
+
+# IDE
+.idea/
+*.iml
